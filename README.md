@@ -1,7 +1,7 @@
 # smart-sorting-transfer-learning-for-identifying-rotten-fruits-and-vegetables
 Watch this short video to see the Smart Sorting Prediction App in action!
 
-Watch the Project Demo Video
+Watch the Project Demo Video:https://drive.google.com/file/d/1twJATBtbTxx_kZld16PzJV6y-SG3Vx9C/view?usp=drivesdk
 
 This demo showcases:
 
