@@ -67,7 +67,7 @@ You can run this project on your local system by following these simple steps:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/bodireddyrevanth/smart-sorting-transfer-learning-for-identifying-rotten-fruits-and-vegetables
+git clone https://github.com/brevanth31/smart-sorting-transfer-learning-for-identifying-rotten-fruits-and-vegetables
 cd SmartSortingApp
 
 2️⃣ Create a Virtual Environment (Recommended)
